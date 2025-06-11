@@ -9,10 +9,10 @@ git clone https://github.com/sss1337771/linux-gemeni-russia
 cd linux-gemeni-russia
 
 # 2. Даем права на скрипт
-chmod +x update-hosts.sh
+chmod +x AI_Unlock.sh
 
 # 3. Запускаем вручную (требует sudo)
-sudo ./AI_Unlock.sh
+sudo sh AI_Unlock.sh
 ```
 P.S.(Проверено пока только на федоре)
 
