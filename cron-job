@@ -1,1 +1,1 @@
-0 12 * * * root /usr/local/bin/update-hosts.sh
+(sudo crontab -l 2>/dev/null; echo "0 */6 * * * /home/sss1337771/Загрузки/ai-linux-russia/AI_Unlock.sh") | sudo crontab -
