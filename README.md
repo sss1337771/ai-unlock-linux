@@ -12,7 +12,7 @@
 ```bash
 # 1. Клонируем репозиторий
 git clone https://github.com/sss1337771/linux-gemeni-russia
-cd unlock-gemini-linux
+cd linux-gemeni-russia
 
 # 2. Даем права на скрипт
 chmod +x update-hosts.sh
