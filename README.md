@@ -12,7 +12,7 @@ cd linux-gemeni-russia
 chmod +x update-hosts.sh
 
 # 3. Запускаем вручную (требует sudo)
-sudo ./update-hosts.sh
+sudo ./AI_Unlock.sh
 ```
 P.S.(Проверено пока только на федоре)
 
