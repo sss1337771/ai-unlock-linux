@@ -11,7 +11,7 @@
 ## 🛠 Установка
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/ваш-логин/unlock-gemini-linux.git
+git clone https://github.com/sss1337771/linux-gemeni-russia
 cd unlock-gemini-linux
 
 # 2. Даем права на скрипт
