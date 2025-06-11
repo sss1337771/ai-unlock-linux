@@ -6,7 +6,7 @@
 ```bash
 # 1. Клонируем репозиторий
 git clone https://github.com/sss1337771/ai-unlock-linux
-cd linux-gemeni-russia
+cd ai-unlock-linux
 
 # 2. Даем права на скрипт
 chmod +x AI_Unlock.sh
